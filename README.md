@@ -1,4 +1,4 @@
-### Hi there 👋
+ # Hi, I'm Harsh 👋🏾 💻
 
 - 🌱 I’m currently learning Ethereum Blockchain
 - 💬 Ask me about Flutter, Node.js, React.js, Ethereum Blockchain, Solidity, AWS,linux,Android Development,MySql,MongoDb
