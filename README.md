@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Ethereum Blockchain
+- 💬 Ask me about Android Development,Flutter, Node.js, React.js, Ethereum Blockchain, Solidity, AWS,
+- 📫 How to reach me: [Github](https://github.com/harsh6768), [Twitter](), [Facebook](), [Linkedin]()
+- 😄 Pronouns: whoami
+- ⚡ Fun fact: .
+
 <!--
 **harsh6768/harsh6768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
