@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 -->
 
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/harsh6768/count.svg" alt ="Loading">
