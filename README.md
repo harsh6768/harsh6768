@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/harsh6768/count.svg" alt ="Loading">
 
-<br>
+-->
+-->
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=harsh6768&show_icons=true&hide_border=true&theme=tokyonight">
