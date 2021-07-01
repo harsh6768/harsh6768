@@ -1,7 +1,7 @@
  # Hi, I'm Harsh 👋🏾 💻
 
 - 🌱 I’m currently learning Ethereum Blockchain
-- 💬 Ask me about  Node.js,Flutter, React.js, Ethereum Blockchain, Solidity, AWS,linux,Android Development,MySql,MongoDb
+- 💬 Ask me about  Node.js,Flutter, React.js, Ethereum Blockchain, Solidity, AWS,linux,Android Development,MySql,MongoDb,Docker
 - 📫 How to reach me: [Github](https://github.com/harsh6768), [Twitter](https://twitter.com/C5harsh), [Facebook](https://www.facebook.com/profile.php?id=100007966668519), [Linkedin](https://www.linkedin.com/in/harsh-chaurasiya-933826137/)
 - 😄 Pronouns: whoami
 - ⚡ Fun fact: .
