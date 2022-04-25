@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 <img align="left" src = "https://profile-counter.glitch.me/harsh6768/count.svg" alt ="Loading">
 
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=harsh6768&show_icons=true&hide_border=true&theme=tokyonight">
-
+<!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=harsh6768&show_icons=true&hide_border=true&theme=tokyonight">
+ -->
+ 
 <img width="100%" src="https://github.com/harsh6768/harsh6768/blob/output/github-contribution-grid-snake.svg">
 
 ![](https://skillicons.dev/icons?i=js,nodejs,git,docker)
