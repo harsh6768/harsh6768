@@ -33,6 +33,6 @@ Here are some ideas to get you started:
  
 <img width="100%" src="https://github.com/harsh6768/harsh6768/blob/output/github-contribution-grid-snake.svg">
 
-![](https://skillicons.dev/icons?i=js,nodejs,git,docker)
+![](https://skillicons.dev/icons?i=js,nodejs,git,docker,mysql,mongodb,aws,react,flutter&perline=6)
 
 
