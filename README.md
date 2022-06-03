@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=harsh6768&show_icons=true&hide_border=true&theme=tokyonight">
 
  
-<img width="100%" src="https://github.com/harsh6768/harsh6768/blob/output/github-contribution-grid-snake.svg">
 
-![](https://skillicons.dev/icons?i=js,nodejs,git,docker,mysql,mongodb,aws,react,flutter&perline=6)
+![](https://skillicons.dev/icons?i=js,nodejs,docker,mysql,mongodb,aws,graphql,react,git,firebase,linux,redis,flutter,wordpress&perline=6)
 
 
