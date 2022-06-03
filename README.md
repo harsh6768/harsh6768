@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=harsh6768&show_icons=true&hide_border=true&theme=tokyonight">
 
- 
+ <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6768&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-![](https://skillicons.dev/icons?i=js,nodejs,docker,mysql,mongodb,aws,graphql,react,git,firebase,linux,redis,flutter,wordpress&perline=6)
+![](https://skillicons.dev/icons?i=js,nodejs,docker,mysql,mongodb,aws,graphql,react,git,firebase,linux,redis,flutter,wordpress&perline=8)
 
 
