@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Distributed architecture for Backend , cloud architecture
 - 💬 Ask me about  Node.js, React.js, AWS,linux,MySql,MongoDb,Docker, System Design
-- 📫 How to reach me: [Github](https://github.com/harsh6768), [Twitter](https://twitter.com/C5harsh), [Facebook](https://www.facebook.com/profile.php?id=100007966668519), [Linkedin](https://www.linkedin.com/in/harsh-chaurasiya-933826137/), [Instagram](https://www.instagram.com/_harsh.chaurasiya_/)
+- 📫 How to reach me: [Github](https://github.com/harsh6768), [Twitter](https://twitter.com/C5harsh), [Facebook](https://www.facebook.com/profile.php?id=100007966668519), [Linkedin](https://www.linkedin.com/in/harsh6768/), [Instagram](https://www.instagram.com/_harsh.chaurasiya_/)
 - 😄 Pronouns: whoami
 - ⚡ Fun fact: .
 
