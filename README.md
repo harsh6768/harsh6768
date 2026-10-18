@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Visitors Count
-
-<img src="https://deno.dev" alt="Visitor Count">
-
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=harsh6768&show_icons=true&hide_border=true&theme=tokyonight">
 
